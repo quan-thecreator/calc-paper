@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1713658878 "test-paper.tex" "test-paper.pdf" "test-paper" 1713658878
+["pdflatex"] 1713661334 "test-paper.tex" "test-paper.pdf" "test-paper" 1713661335
   "/etc/texmf/web2c/texmf.cnf" 1701146764 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -41,6 +41,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1248133631 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb" 1248133631 11493 4f5ed183a47d3197cf8cd322325db6de ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb" 1591219423 25273 57c06ae0831a03c4eb441ef7894a1639 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/newpx/NewPXMI_gnu.pfb" 1570136818 16003 379767f2e95213e4cfc7bfd5823fb860 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb" 1634156854 55131 37a379baccd50ac17c5ca120b382f7a1 ""
@@ -275,9 +276,9 @@
   "letterfonts.tex" 1713488085 8702 ef32ca12e97530ef5734ca4adcb1f6b1 ""
   "macros.tex" 1713488092 3389 93000260d2aea292d29c76d4ace77a29 ""
   "preamble.tex" 1713488102 20053 cac64cd8837854e12008c40220fda887 ""
-  "test-paper.aux" 1713658878 1752 c4a8a80ceeb0134393231cbf2710bcc3 "pdflatex"
-  "test-paper.tex" 1713658856 1548 1e935e557e21d8322ef4db08d2f8770d ""
-  "test-paper.toc" 1713658878 142 acb0c2754501a8a6d9d1aeef0c6b7269 "pdflatex"
+  "test-paper.aux" 1713661335 1752 5e9fbc294ff1f720963d5f71555097ac "pdflatex"
+  "test-paper.tex" 1713661334 2052 d31b34b99f9654b576cd3ada8e99eeac ""
+  "test-paper.toc" 1713661335 142 acb0c2754501a8a6d9d1aeef0c6b7269 "pdflatex"
   (generated)
   "test-paper.aux"
   "test-paper.log"

@@ -1,4 +1,5 @@
 \documentclass{report}
+\usepackage{cancel}
 \usepackage{rotating}
 \input{preamble}
 \input{macros}
@@ -36,7 +37,7 @@
 		a_n = b_n - b_{n+1}
 	$$ where 
 	$$
-		\sum{a_n} =  \sum_{n=1}^{\infty}{b_n - b_{n+1}} = (b_1-b_2) + (b_2-b_3) + (b_3-b_4) + ...
+		\sum{a_n} =  \sum_{n=1}^{\infty}{b_n - b_{n+1}} = (b_1-\cancel{b_2}) + (\cancel{b_2}-\cancel{b_3}) + (\cancel{b_3}-b_4) + ...
 	$$
 	$$
 		\implies S=b_1 \therefore S_k=b_1-b_{k+1}
@@ -53,8 +54,15 @@
 	\end{align}
 }
 \dfn{The Integral Test}{
-	
+	Suppose you have a series $\sum_{n=j}^{\infty}{a_n}$, where $a_n = f(x)$, and $f(x)$ is continuous, positive and decreasing on the interval $[j,\infty)$.
+	\begin{align*}
+		\sum_{n=j}^{\infty}{a_n} \text{ converges if } \\
+		L= \int_{j}^{\infty}{f(x)} = \lim_{b\to\infty}{\int_{j}^b{f(x)}} \\
+		\text{where $L$ is some positive, finite value meeting the condition: } 0<L<\infty \\
+		\text{The sum diverges if $L$ diverges (DNE counts)}
+	\end{align}
 }
+
 \end{document}
 
 
