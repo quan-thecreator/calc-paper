@@ -1,0 +1,60 @@
+\documentclass{report}
+\usepackage{rotating}
+\input{preamble}
+\input{macros}
+\input{letterfonts}
+\title{\Huge{Calculuus - The Reckoning}}
+\author{\huge{Krishna ;)}}
+\date{}
+\begin{document}
+
+\maketitle
+\newpage% or \cleardoublepage
+% \pdfbookmark[<level>]{<title>}{<dest>}
+\pdfbookmark[section]{\contentsname}{toc}
+\tableofcontents
+\pagebreak
+
+\chapter{}
+\section{The Tests}
+
+
+\dfn{The Geometric Series Test}{
+	Suppose you have a series $$
+	\sum_{n=1}^{\infty}{a(r)^{n-1}}
+	$$
+	or any other series with a common ratio $r$ and an initial $a$, involving a multiplication of that variate value $r$ over the indexes of said infinite series $\sum{a_n}$. The series converges if:
+	$$r<1$$
+	\text{and diverges when:}
+	$$r>1$$
+	If the infinite series $\sum{a_n}$ converges the sum can be found with:
+	$$S=\frac{a}{1-r}$$
+	And the interval of converges can also be found if $r$ is a variate quantity with the inequality $|r|<1$. Using this method, the \textit{endpoints} must be tested to see if the bounds are inclusive of exclusive.
+}
+\dfn{Telescoping Series Test}{
+	Suppose you have a series $\sum{a_n}$ of the form$$
+		a_n = b_n - b_{n+1}
+	$$ where 
+	$$
+		\sum{a_n} =  \sum_{n=1}^{\infty}{b_n - b_{n+1}} = (b_1-b_2) + (b_2-b_3) + (b_3-b_4) + ...
+	$$
+	$$
+		\implies S=b_1 \therefore S_k=b_1-b_{k+1}
+	$$
+}
+\dfn{$n^{\mathrm{th}}$ term test}{
+\text{Suppose you have a series} $\sum{a_n}$
+	\begin{align*}
+		L = \lim_{n\to\infty}{a_n}
+	\end{align}
+	$\sum{a_n}$ diverges if:
+	\begin{align*}
+		L\ne0
+	\end{align}
+}
+\dfn{The Integral Test}{
+	
+}
+\end{document}
+
+
