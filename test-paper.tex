@@ -74,7 +74,7 @@ This test only tests for divergence.
 	Suppose you have a series:
 	\begin{align*}
 		\sum{a_n}=\sum_{n=1}^\infty{(-1)^{n+k}b_n}\\
-		||a_n||=b_n
+		|a_n|=b_n
 	\end{align}
 	If:
 	\begin{align*}
@@ -89,7 +89,7 @@ This test only tests for convergence.
 \dfn{The Ratio Test}{
 	Suppose you have a series $\sum{a_n}$ 
 	$$
-	L = \lim_{n\to\infty}{\frac{a_{n+1}}{a_n}}
+	L = \lim_{n\to\infty}{|\frac{a_{n+1}}{a_n}|}
 	$$
 	The series converges if:
 	$$L<1$$
@@ -101,6 +101,39 @@ This test only tests for convergence.
 \begin{note}
 This test is especially useful when dealing with factorials and exponential, as the powers reduce. There is the off-chance that you find a product such as $2*5*7*9*(2n-1)$, where this technique tends to work well, just as it does in the factorial pattern.
 \end{note}
+\dfn{Direct Comparison Test}{
+	Suppose you have a series $\sum{a_n}$ and find a series $\sum{b_n}$. $$a_n,b_n\ge 0,n \in \mathbb{R}$$ In order to prove $\sum{a_n}$ converges you must show that:
+	$$a_n\le b_n$$ for all $n$, and that $\sum{b_n}$ converges using any other test of your choosing. In order to prove $\sum{a_n}$ diverges you must show that:
+	$$a_n\ge b_n$$ for all $n$, and that $\sum{b_n}$ diverges.
+}
+\begin{note}
+This test works well for compositions of rationals and exponential, where $\sum{b_n}$ is simply $\sum{a_n}$ without a constant in the denominator. Try to use it sparingly and only when the opportunity presents itself.
+\end{note}
+\dfn{Limit Comparison Test}{
+	Suppose you have a series $\sum{a_n}$, and you find a series $\sum{b_n}$ $$a_n\ge0,b_n>0,n \in \mathbb{R}$$
+	$$c=\lim_{n\to\infty}{\frac{a_n}{b_n}}$$
+	$$0<c<\infty$$
+	$\sum{a_n}$ converges if $\sum{b_n}$ converges, $\sum{a_n}$ diverges if $\sum{b_n}$ diverges.
+}
+\dfn{Root Test}{
+	Suppose you have a series $\sum{a_n}$
+	$$L=\lim_{n\to\infty}{\sqrt[n]{|a_n|}}$$
+	Then 1 of 3 cases is true:
+
+	1. if $L<1$ $\sum{a_n}$ is absolutely convergent (hence convergent)
+
+	2. if $L>1$ $\sum{a_n}$ is divergent
+	
+	3. if $L=1$ the test fails
+}
+\dfn{Absolute vs. Conditional Convergence}{
+	\textbf{This test only matters if ${a_n}$ is variate.}
+
+	$\sum{a_n}$ is absolutely convergent if $\sum{|a_n|}$ converges. $\sum{a_n}$ is conditionally convergent if $\sum{|a_n|}$ diverges.
+}
+\clm{Interval of Convergence}{}{
+	Test endpoints any time when finding the interval of convergence after using the Root Test, Ratio Test, Geometric Series Test, or (will almost never be asked) the Alternating Series Test. With the alternating series test, it is important to watch if $$b_n>b_{n+1}$$.
+}
 \pagebreak
 \section{The Tests of Character}
 
