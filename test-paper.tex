@@ -53,6 +53,9 @@
 		L\ne0
 	\end{align}
 }
+\begin{note}
+This test only tests for divergence.
+\end{note}
 \dfn{The Integral Test}{
 	Suppose you have a series $\sum_{n=j}^{\infty}{a_n}$, where $a_n = f(x)$, and $f(x)$ is continuous, positive and decreasing on the interval $[j,\infty)$.
 	\begin{align*}
@@ -62,6 +65,44 @@
 		\text{The sum diverges if $L$ diverges (DNE counts)}
 	\end{align}
 }
+\dfn{p-series Test}{
+	Suppose you have a series of the form:
+	$$\sum_{n=1}^\infty{\frac{1}{n^p}}$$
+	This series converges if $p>1$ and diverges if $0<p\le1$
+}
+\dfn{The Alternating Series Test}{
+	Suppose you have a series:
+	\begin{align*}
+		\sum{a_n}=\sum_{n=1}^\infty{(-1)^{n+k}b_n}\\
+		||a_n||=b_n
+	\end{align}
+	If:
+	\begin{align*}
+		\lim_{n\to\infty}b_n=0\\
+		b_n>b_{n+1}
+	\end{align}
+	The series $\sum{a_n}$ converges.
+}
+\begin{note}
+This test only tests for convergence.
+\end{note}
+\dfn{The Ratio Test}{
+	Suppose you have a series $\sum{a_n}$ 
+	$$
+	L = \lim_{n\to\infty}{\frac{a_{n+1}}{a_n}}
+	$$
+	The series converges if:
+	$$L<1$$
+	Diverges if:
+	$$L>1$$
+	and fails when:
+	$$L=1$$
+}
+\begin{note}
+This test is especially useful when dealing with factorials and exponential, as the powers reduce. There is the off-chance that you find a product such as $2*5*7*9*(2n-1)$, where this technique tends to work well, just as it does in the factorial pattern.
+\end{note}
+\pagebreak
+\section{The Tests of Character}
 
 \end{document}
 
