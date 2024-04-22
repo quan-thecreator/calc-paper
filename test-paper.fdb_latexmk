@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1713746313 "test-paper.tex" "test-paper.pdf" "test-paper" 1713746314
+["pdflatex"] 1713814843 "test-paper.tex" "test-paper.pdf" "test-paper" 1713814844
   "/etc/texmf/web2c/texmf.cnf" 1701146764 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -40,6 +40,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1248133631 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1248133631 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
@@ -280,9 +281,9 @@
   "letterfonts.tex" 1713488085 8702 ef32ca12e97530ef5734ca4adcb1f6b1 ""
   "macros.tex" 1713488092 3389 93000260d2aea292d29c76d4ace77a29 ""
   "preamble.tex" 1713488102 20053 cac64cd8837854e12008c40220fda887 ""
-  "test-paper.aux" 1713746314 2243 1997544631212cdaaa9a50db874e3a9f "pdflatex"
-  "test-paper.tex" 1713746313 6676 019acb5398adfc2a134f675f4fadee1f ""
-  "test-paper.toc" 1713746314 224 d76a65ad0b9995a1cdede552076a7f0a "pdflatex"
+  "test-paper.aux" 1713814844 2243 1997544631212cdaaa9a50db874e3a9f "pdflatex"
+  "test-paper.tex" 1713814843 7108 a621b7325b9e63d51e7ee30f7e4f63bc ""
+  "test-paper.toc" 1713814844 224 d76a65ad0b9995a1cdede552076a7f0a "pdflatex"
   (generated)
   "test-paper.aux"
   "test-paper.log"
