@@ -132,11 +132,57 @@ This test works well for compositions of rationals and exponential, where $\sum{
 	$\sum{a_n}$ is absolutely convergent if $\sum{|a_n|}$ converges. $\sum{a_n}$ is conditionally convergent if $\sum{|a_n|}$ diverges.
 }
 \clm{Interval of Convergence}{}{
-	Test endpoints any time when finding the interval of convergence after using the Root Test, Ratio Test, Geometric Series Test, or (will almost never be asked) the Alternating Series Test. With the alternating series test, it is important to watch if $$b_n>b_{n+1}$$.
+	Test endpoints any time when finding the interval of convergence after using the Root Test, Ratio Test, Geometric Series Test, or (will almost never be asked) the Alternating Series Test. With the alternating series test, it is important to watch if $$b_n>b_{n+1}$$
 }
 \pagebreak
 \section{The Tests of Character}
-\qs{}{}
+\qs{}{
+	Does the following series converge or diverge? Specify the test, show all steps, and identify the correct radius of convergence and interval of convergence with respect to $x$.
+	$$\sum_{n=1}^{\infty}{\frac{(-1)^{n+1}(x-4)^{n}}{n9^n}}$$
+	\begin{turn}{180} 
+	{\textbf{Answer.}
+	Use the ratio test and find: $R=9$, and interval of convergence to be $(-5,13]$
+	\end{turn}
+	}
+}
+For the following 4 problems use: $$f(x)=\sum_{n=1}^{\infty}{(\tfrac{x}{3})^n}$$
+\qs{}{
+	Find the interval of convergence for $f(x)$, if the series converges. Identify the test.
+	\begin{turn}{180}
+	{
+	\textbf{Answer.} Use Geometric Series test to identify that $R=3$ and interval of convergence to be $(-3,3)$
+	}
+	\end{turn}
+}
+\qs{}{
+	Find the interval of convergence for $f'(x)$, if the series converges. Identify the test.
+	\begin{turn}{180}
+	{
+	\textbf{Answer.} Use Ratio test to identify that $R=3$ and interval of convergence to be $(-3,3)$
+	}
+	\end{turn}
+}
+\qs{}{
+	Find the interval of convergence for $f''(x)$, if the series converges. Identify the test.
+	\begin{turn}{180}
+	{
+	\textbf{Answer.} Use Ratio test to identify that $R=3$ and interval of convergence to be $(-3,3)$
+	}
+	\end{turn}
+}
+\qs{}{
+	Find the interval of convergence for $\int{f(x)\mathrm{d}x}$, if the series converges. Identify the test.
+	\begin{turn}{180}
+	{
+	\textbf{Answer.} Use Ratio test to identify that $R=3$ and interval of convergence to be $[-3,3)$
+	}
+	\end{turn}
+}
+\begin{turn}{180}
+\begin{note}
+When deriving a series, the bound may only loose convergence, not gain. The opposite is true for integration. If you receive another series of questions like this you can simply use the same bound after setting up the test, and only test the endpoints when integrating, not deriving as that would only waste time.
+\end{note}
+\end{turn}
 \end{document}
 
 
