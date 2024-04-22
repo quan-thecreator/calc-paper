@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1627,7 +1627,39 @@ Overfull \hbox (28.45274pt too wide) in paragraph at lines 185--186
 [][]
  []
 
-[6] (./test-paper.aux)
+
+Underfull \hbox (badness 6220) in paragraph at lines 202--202
+[]\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
+f\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 , i
+f the se-ries con-verges. Iden-tify the test.
+ []
+
+[6]
+Underfull \hbox (badness 5726) in paragraph at lines 210--210
+[]\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
+f[]\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 ,
+ if the se-ries con-verges. Iden-tify the test.
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 218--218
+[]\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
+f[]\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 ,
+ if the se-ries con-verges. Iden-tify the test.
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 226--226
+[]\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $[] []$, if the se-r
+ies con-verges. Iden-tify the test.
+ []
+
+
+Overfull \hbox (3.30777pt too wide) in paragraph at lines 226--226
+[] 
+ []
+
+[7] (./test-paper.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.97499pt have occurred.
@@ -1637,10 +1669,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37148 strings out of 480171
- 741764 string characters out of 5894489
- 1133213 words of memory out of 5000000
- 54382 multiletter control sequences out of 15000+600000
+ 37167 strings out of 480171
+ 742144 string characters out of 5894489
+ 1135213 words of memory out of 5000000
+ 54396 multiletter control sequences out of 15000+600000
  515592 words of font info for 159 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  96i,15n,102p,459b,1718s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1660,10 +1692,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newtx/txexs.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/txfonts/txsya.pfb>
-Output written on test-paper.pdf (7 pages, 185059 bytes).
+Output written on test-paper.pdf (8 pages, 187425 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
+ 241 PDF objects out of 1000 (max. 8388607)
+ 157 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
