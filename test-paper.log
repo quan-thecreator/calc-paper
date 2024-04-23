@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1654,7 +1654,90 @@ Underfull \hbox (badness 3128) in paragraph at lines 229--229
 ies con-verges. Iden-tify the test.
  []
 
-[7] (./test-paper.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+
+ []
+
+
+Overfull \hbox (5.3365pt too wide) in paragraph at lines 259--259
+[][] 
+ []
+
+! Misplaced alignment tab character &.
+<argument> ...itionally, Alternating Series test &
+                                                   p-series. } \end {turn} 
+l.267 }
+       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 267--267
+\OT1/cmr/m/n/10 either con-verges ab-so-lutely, con-verges con-di-tion-ally, or
+ di-verges. Spec-ify the test used.
+ []
+
+[7]
+! Misplaced alignment tab character &.
+<argument> ...itionally, Alternating Series test &
+                                                   p-series. } \end {turn} 
+l.275 }
+       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 275--275
+\OT1/cmr/m/n/10 either con-verges ab-so-lutely, con-verges con-di-tion-ally, or
+ di-verges. Spec-ify the test used.
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 283--283
+\OT1/cmr/m/n/10 either con-verges ab-so-lutely, con-verges con-di-tion-ally, or
+ di-verges. Spec-ify the test used.
+ []
+
+! Misplaced alignment tab character &.
+<argument> ...bsolutely, Alternating Series test &
+                                                   Direct Comparison } \end ...
+l.291 }
+       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 291--291
+\OT1/cmr/m/n/10 either con-verges ab-so-lutely, con-verges con-di-tion-ally, or
+ di-verges. Spec-ify the test used.
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 299--299
+\OT1/cmr/m/n/10 either con-verges ab-so-lutely, con-verges con-di-tion-ally, or
+ di-verges. Spec-ify the test used.
+ []
+
+
+Underfull \hbox (badness 6252) in paragraph at lines 315--315
+\OT1/cmr/m/n/10 either con-verges ab-so-lutely, con-verges con-di-tion-ally, or
+ di-verges. Spec-ify the test used.
+ []
+
+[8] [9] (./test-paper.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.97499pt have occurred.
@@ -1664,10 +1747,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37176 strings out of 480171
- 742342 string characters out of 5894489
- 1135213 words of memory out of 5000000
- 54403 multiletter control sequences out of 15000+600000
+ 37222 strings out of 480171
+ 743315 string characters out of 5894489
+ 1135215 words of memory out of 5000000
+ 54438 multiletter control sequences out of 15000+600000
  515592 words of font info for 159 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  96i,15n,102p,459b,1718s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1687,10 +1770,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newtx/txexs.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/txfonts/txsya.pfb>
-Output written on test-paper.pdf (8 pages, 189006 bytes).
+Output written on test-paper.pdf (10 pages, 195375 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
+ 264 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
