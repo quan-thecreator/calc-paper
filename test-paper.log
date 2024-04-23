@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 21:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 21:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1654,11 +1654,6 @@ Underfull \hbox (badness 3128) in paragraph at lines 229--229
 ies con-verges. Iden-tify the test.
  []
 
-
-Overfull \hbox (3.30777pt too wide) in paragraph at lines 229--229
-[] 
- []
-
 [7] (./test-paper.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1669,10 +1664,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37170 strings out of 480171
- 742201 string characters out of 5894489
+ 37176 strings out of 480171
+ 742342 string characters out of 5894489
  1135213 words of memory out of 5000000
- 54398 multiletter control sequences out of 15000+600000
+ 54403 multiletter control sequences out of 15000+600000
  515592 words of font info for 159 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  96i,15n,102p,459b,1718s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1692,10 +1687,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newtx/txexs.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/txfonts/txsya.pfb>
-Output written on test-paper.pdf (8 pages, 188265 bytes).
+Output written on test-paper.pdf (8 pages, 189006 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 246 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
