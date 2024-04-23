@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1713818391 "test-paper.tex" "test-paper.pdf" "test-paper" 1713818392
+["pdflatex"] 1713840945 "test-paper.tex" "test-paper.pdf" "test-paper" 1713840946
   "/etc/texmf/web2c/texmf.cnf" 1701146764 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -281,9 +281,9 @@
   "letterfonts.tex" 1713488085 8702 ef32ca12e97530ef5734ca4adcb1f6b1 ""
   "macros.tex" 1713488092 3389 93000260d2aea292d29c76d4ace77a29 ""
   "preamble.tex" 1713488102 20053 cac64cd8837854e12008c40220fda887 ""
-  "test-paper.aux" 1713818392 2243 372c787cee22eba1b2e26c788a25d5fa "pdflatex"
-  "test-paper.tex" 1713818391 8084 f14187143c07d9263ccab64dbfdc161d ""
-  "test-paper.toc" 1713818392 224 d76a65ad0b9995a1cdede552076a7f0a "pdflatex"
+  "test-paper.aux" 1713840946 2243 6301441ed9fe16a141a2b803e51c5ca3 "pdflatex"
+  "test-paper.tex" 1713840945 8239 dd247dd7a4a45b8b0d58825eb6478b3a ""
+  "test-paper.toc" 1713840946 224 d76a65ad0b9995a1cdede552076a7f0a "pdflatex"
   (generated)
   "test-paper.aux"
   "test-paper.log"

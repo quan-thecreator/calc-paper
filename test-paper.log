@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 15:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  22 APR 2024 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1576,7 +1576,7 @@ or  <return>  to continue without it.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.147 }
+l.150 }
        
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1587,7 +1587,7 @@ my insertion and my current dilemma will both disappear.
 ! Extra }, or forgotten \endgroup.
 <argument> ...rgence to be $(-5,13]$ \end {turn} }
                                                    
-l.147 }
+l.150 }
        
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1596,66 +1596,66 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 156--156
+Underfull \hbox (badness 6220) in paragraph at lines 159--159
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
 f\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 , i
 f the se-ries con-verges. Iden-tify the test.
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 164--164
+Underfull \hbox (badness 5726) in paragraph at lines 167--167
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
 f[]\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 ,
  if the se-ries con-verges. Iden-tify the test.
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 172--172
+Underfull \hbox (badness 5331) in paragraph at lines 175--175
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
 f[]\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 ,
  if the se-ries con-verges. Iden-tify the test.
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 180--180
+Underfull \hbox (badness 3128) in paragraph at lines 183--183
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $[] []$, if the se-r
 ies con-verges. Iden-tify the test.
  []
 
 
-Overfull \hbox (28.45274pt too wide) in paragraph at lines 185--186
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 188--189
 [][]
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 202--202
+Underfull \hbox (badness 6220) in paragraph at lines 205--205
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
 f\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 , i
 f the se-ries con-verges. Iden-tify the test.
  []
 
 [6]
-Underfull \hbox (badness 5726) in paragraph at lines 210--210
+Underfull \hbox (badness 5726) in paragraph at lines 213--213
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
 f[]\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 ,
  if the se-ries con-verges. Iden-tify the test.
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 218--218
+Underfull \hbox (badness 5331) in paragraph at lines 221--221
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $\OML/npxmi/m/it/10 
 f[]\LMS/npxsy/m/n/10 ¹\OML/npxmi/m/it/10 x\LMS/npxsy/m/n/10 º$\OT1/cmr/m/n/10 ,
  if the se-ries con-verges. Iden-tify the test.
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 226--226
+Underfull \hbox (badness 3128) in paragraph at lines 229--229
 []\OT1/cmr/m/n/10 Find the in-ter-val of con-ver-gence for $[] []$, if the se-r
 ies con-verges. Iden-tify the test.
  []
 
 
-Overfull \hbox (3.30777pt too wide) in paragraph at lines 226--226
+Overfull \hbox (3.30777pt too wide) in paragraph at lines 229--229
 [] 
  []
 
@@ -1669,10 +1669,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37167 strings out of 480171
- 742144 string characters out of 5894489
+ 37170 strings out of 480171
+ 742201 string characters out of 5894489
  1135213 words of memory out of 5000000
- 54396 multiletter control sequences out of 15000+600000
+ 54398 multiletter control sequences out of 15000+600000
  515592 words of font info for 159 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  96i,15n,102p,459b,1718s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1692,10 +1692,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/newpx/pxsys.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newtx/txexs.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/txfonts/txsya.pfb>
-Output written on test-paper.pdf (8 pages, 187425 bytes).
+Output written on test-paper.pdf (8 pages, 188265 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
